@@ -8,6 +8,7 @@ Project Objectives:
 * Use Git version control to keep track of your work
 * Use the command line to navigate your files and folders
 * Use Postman to test API endpoints
+
 Prerequisites:
 * Command line and file navigation
 * Javascript
